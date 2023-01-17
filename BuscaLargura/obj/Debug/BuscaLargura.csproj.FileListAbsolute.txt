@@ -1,0 +1,14 @@
+C:\Users\Leandro\source\repos\BuscaLargura\BuscaLargura\bin\Debug\BuscaLargura.exe.config
+C:\Users\Leandro\source\repos\BuscaLargura\BuscaLargura\bin\Debug\BuscaLargura.exe
+C:\Users\Leandro\source\repos\BuscaLargura\BuscaLargura\bin\Debug\BuscaLargura.pdb
+C:\Users\Leandro\source\repos\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.exe
+C:\Users\Leandro\source\repos\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.pdb
+C:\Users\Leandro\source\repos\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.csproj.AssemblyReference.cache
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaLargura\BuscaLargura\bin\Debug\BuscaLargura.exe.config
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaLargura\BuscaLargura\bin\Debug\BuscaLargura.exe
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaLargura\BuscaLargura\bin\Debug\BuscaLargura.pdb
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.csproj.AssemblyReference.cache
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.csproj.CoreCompileInputs.cache
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.exe
+D:\PUC MINAS\Quarto Semestre\Grafos\AlgoritmosProntos\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.pdb
